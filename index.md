@@ -18,8 +18,9 @@ Not sure where all your time goes? I wasn't either, so this application generate
 <img alt="pop-up-box" src="https://raw.githubusercontent.com/Bilbottom/daily-tracker/main/tracker-form-tkinter.png"/>
 
 </div>
+<br>
 
-### ✨ Features
+## ✨ Features
 
 - Drop-down box to select from recent tasks
 - Auto-populates the detail text box with the tasks' last entry
@@ -32,7 +33,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
   - Posts a message to channel when the form is submitted
 
 
-### ⚠️ Warnings
+## ⚠️ Warnings
 
 - This is still very early in development and is undergoing a significant restructure
 - The code coverage is extremely limited
@@ -120,6 +121,30 @@ It was originally written for some former colleagues and has been slightly adapt
 
 ---
 
+## [🌍 SQL Schema Models](https://github.com/Bilbottom/sql-schema-models)
+
+###### [https://github.com/Bilbottom/sql-schema-models](https://github.com/Bilbottom/sql-schema-models)
+
+Since I work with data all day every day, this is a start at some generalised data models
+
+For example, most databases (at least, analytical ones) benefit from having some calendar tables, also sometimes referred to as a "date dimension" from when they were built into the Kimball star schema architecture
+
+This is also a chance for me to just practise data modelling and data generation, so don't take these models too seriously
+
+
+---
+
+## [💰 Loan Calculations](https://github.com/Bilbottom/loan-calcs)
+
+###### [https://github.com/Bilbottom/loan-calcs](https://github.com/Bilbottom/loan-calcs)
+
+I worked in Finance for 4 years and spent a lot of time working with loans. There's loads of helpful calculations to go with them, so this is a place to both document them and to also expose them through Python classes
+
+Mainly another opportunity for me to play around with OOP (mainly inheritance in this case) and to have fun with some maths
+
+
+---
+
 ## [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
 
 ###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
@@ -142,3 +167,34 @@ There's a branch of Maths called Linear Algebra, and one of the concepts that yo
 They're a pretty simple concept, but learning about them becomes a pain because there's a lot of different --- and in some places, contradictory --- notation used to describe them and what they can do
 
 The purpose of this project was to show all the different notations, where they differ, and how to solve problems using each of them
+
+
+---
+
+## [🧑‍🎓 Master's Dissertation Graphs](https://github.com/Bilbottom/ma5p1-dissertation-code)
+
+###### [https://github.com/Bilbottom/ma5p1-dissertation-code](https://github.com/Bilbottom/ma5p1-dissertation-code)
+
+> Originally an R project, this has been reduced and reworked as a Python project
+
+As part of my dissertation, I was exploring ["point-line duality"](https://en.wikipedia.org/wiki/Duality_(projective_geometry)) -- and it was easiest to do this by drawing up the points and the lines using a computer
+
+One of the images has also been used as the thumbnail for the song **Perdidos en la Multitud** by the Argentinian musician **Aroldo De Souza**:
+
+- https://www.instagram.com/aroldo_de_souza/
+- https://open.spotify.com/track/5XXUJO0EzWpjkRpvrkZkt1?si=2ebc3c24556b44ff
+
+The description to go with this image is:
+
+> In Mathematics, there is a concept of point-line duality: that is, for a point on a graph there is a corresponding line called its _dual_. The dual of the point `(a, b)` is the set of points `{(x, y)}` such that `ax + by = 0`, and we call the set of points a _line_. (Note: this is the _affine_ dual, but the images actually use a _projective_ dual.)
+>
+> An interesting consequence of this duality is that if a collection of points all line on a straight line, then their dual lines will all intersect in the same place. The image is the duals of some points on the cubic curve `y = x^3`. The points on the cubic curve have been selected so that there are many sets of 3 points that all lie on the same line (such as `(-1, -1)`, `(0, 0)`, and `(1, 1)`) which means that their duals (the images) have many intersections of exactly 3 lines/
+
+If you look carefully, you'll also see that the image has been set as the tab icon for this page 😉
+
+<br>
+<div style="text-align: center;">
+
+<img alt="cubic-graph-61" src="favicon.ico"/>
+
+</div>
