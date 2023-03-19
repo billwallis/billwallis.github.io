@@ -3,6 +3,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
+<span style="font-weight:bold" size=24>🚀 Personal Projects</span>
+
 **What's on this page?**
 * TOC
 {:toc}
@@ -23,7 +25,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 </div>
 <br>
 
-### ✨ Features
+**✨ Features**
 
 - Drop-down box to select from recent tasks
 - Auto-populates the detail text box with the tasks' last entry
@@ -36,7 +38,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
   - Posts a message to channel when the form is submitted
 
 
-### ⚠️ Warnings
+**⚠️ Warnings**
 
 - This is still very early in development and is undergoing a significant restructure
 - The code coverage is extremely limited
