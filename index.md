@@ -1,5 +1,5 @@
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 
 🚀 Personal Projects
@@ -40,7 +40,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 ---
 
-### [<img alt="dbt-labs" height="15px" src="https://www.getdbt.com/favicon.ico"> Data Modelling using dbt](https://github.com/Bilbottom/billiam-database)
+### [<img alt="dbt-labs" height="15px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
 
 ###### [https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)
 
@@ -82,10 +82,16 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 
 ###### [https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
+Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
+
+The features are built using VBA and the custom ribbon tab is added using the **Office RibbonX Editor** available at:
+
+- [https://github.com/fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor)
+
 
 ---
 
-### [♠️ Blackjack Emulator](https://github.com/Bilbottom/blackjack)
+### [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
 
 ###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
 
