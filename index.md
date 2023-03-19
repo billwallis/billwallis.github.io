@@ -7,7 +7,7 @@
 🚀 Personal Projects
 ---
 
-### [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
+## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
 ###### [https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)
 
@@ -18,9 +18,8 @@ Not sure where all your time goes? I wasn't either, so this application generate
 <img alt="pop-up-box" src="https://raw.githubusercontent.com/Bilbottom/daily-tracker/main/tracker-form-tkinter.png"/>
 
 </div>
-<br>
 
-#### ✨ Features
+### ✨ Features
 
 - Drop-down box to select from recent tasks
 - Auto-populates the detail text box with the tasks' last entry
@@ -33,7 +32,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
   - Posts a message to channel when the form is submitted
 
 
-#### ⚠️ Warnings
+### ⚠️ Warnings
 
 - This is still very early in development and is undergoing a significant restructure
 - The code coverage is extremely limited
@@ -42,7 +41,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 ---
 
-### [<img alt="dbt-labs" height="15px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
+## [<img alt="dbt-labs" height="18px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
 
 ###### [https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)
 
@@ -61,7 +60,7 @@ The dbt documentation is hosted at:
 
 ---
 
-### [<img alt="PyCharm" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
+## [<img alt="PyCharm" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
 
 ###### [https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)
 
@@ -80,7 +79,7 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 
 ---
 
-### [<img alt="Microsoft Excel" height="15px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
+## [<img alt="Microsoft Excel" height="18px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
 ###### [https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
@@ -103,13 +102,43 @@ The features are built using VBA and the custom ribbon tab is added using the **
 
 ---
 
-### [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
+## [📘 VBA Guide](https://github.com/Bilbottom/vba-guide)
 
-###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
+###### [https://github.com/Bilbottom/vba-guide](https://github.com/Bilbottom/vba-guide)
+
+> This will probably not be updated any more
+
+Can you tell I like VBA? Well, I want you to like it too -- so this is a reference material for getting started with VBA. The guide is written in LaTeX, but you can find the latest compiled version at:
+
+- https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf
+
+It was originally written for some former colleagues and has been slightly adapted for a more general audience, but probably not enough. If you want to see some VBA videos, I strongly recommend [the WiseOwl YouTube](https://www.youtube.com/@WiseOwlTutorials) tutorials:
+
+- [https://youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5](https://youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5)
+- [https://youtube.com/playlist?list=PLNIs-AWhQzckV9rAM3yv8ym4pioIMA0UR](https://youtube.com/playlist?list=PLNIs-AWhQzckV9rAM3yv8ym4pioIMA0UR)
 
 
 ---
 
-### [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/Bilbottom/permutations)
+## [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
+
+###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
+
+Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts
+
+
+---
+
+## [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/Bilbottom/permutations)
 
 ###### [https://github.com/Bilbottom/permutations](https://github.com/Bilbottom/permutations)
+
+> Not really in development any more (and not even finished)
+
+There's a branch of Maths called Linear Algebra, and one of the concepts that you can study is _permutations_:
+
+- https://en.wikipedia.org/wiki/Permutation
+
+They're a pretty simple concept, but learning about them becomes a pain because there's a lot of different --- and in some places, contradictory --- notation used to describe them and what they can do
+
+The purpose of this project was to show all the different notations, where they differ, and how to solve problems using each of them
