@@ -3,17 +3,16 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
-
-🚀 Personal Projects
----
-
+**What's on this page?**
 * TOC
 {:toc}
+
+---
 
 
 ## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
-###### [https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)</span>
 
 Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to entry what I'm working on
 
@@ -24,7 +23,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 </div>
 <br>
 
-## ✨ Features
+### ✨ Features
 
 - Drop-down box to select from recent tasks
 - Auto-populates the detail text box with the tasks' last entry
@@ -37,7 +36,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
   - Posts a message to channel when the form is submitted
 
 
-## ⚠️ Warnings
+### ⚠️ Warnings
 
 - This is still very early in development and is undergoing a significant restructure
 - The code coverage is extremely limited
@@ -48,7 +47,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 ## [<img alt="dbt-labs" height="18px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
 
-###### [https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)</span>
 
 In addition to my 'automated' timesheet (the project above), I also keep track of every transaction I make at an item level (since 2018-01-18)
 
@@ -67,7 +66,7 @@ The dbt documentation is hosted at:
 
 ## [<img alt="PyCharm" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
 
-###### [https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)</span>
 
 PyCharm is awesome, and it's even more awesome when you write your own database extensions 😉
 
@@ -86,7 +85,7 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 
 ## [<img alt="Microsoft Excel" height="18px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
-###### [https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)</span>
 
 Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
 
@@ -109,7 +108,7 @@ The features are built using VBA and the custom ribbon tab is added using the **
 
 ## [📘 VBA Guide](https://github.com/Bilbottom/vba-guide)
 
-###### [https://github.com/Bilbottom/vba-guide](https://github.com/Bilbottom/vba-guide)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/vba-guide](https://github.com/Bilbottom/vba-guide)</span>
 
 > This will probably not be updated any more
 
@@ -127,7 +126,7 @@ It was originally written for some former colleagues and has been slightly adapt
 
 ## [🌍 SQL Schema Models](https://github.com/Bilbottom/sql-schema-models)
 
-###### [https://github.com/Bilbottom/sql-schema-models](https://github.com/Bilbottom/sql-schema-models)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/sql-schema-models](https://github.com/Bilbottom/sql-schema-models)</span>
 
 Since I work with data all day every day, this is a start at some generalised data models
 
@@ -140,7 +139,7 @@ This is also a chance for me to just practise data modelling and data generation
 
 ## [💰 Loan Calculations](https://github.com/Bilbottom/loan-calcs)
 
-###### [https://github.com/Bilbottom/loan-calcs](https://github.com/Bilbottom/loan-calcs)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/loan-calcs](https://github.com/Bilbottom/loan-calcs)</span>
 
 I worked in Finance for 4 years and spent a lot of time working with loans. There's loads of helpful calculations to go with them, so this is a place to both document them and to also expose them through Python classes
 
@@ -151,7 +150,7 @@ Mainly another opportunity for me to play around with OOP (mainly inheritance in
 
 ## [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
 
-###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)</span>
 
 Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts
 
@@ -160,7 +159,7 @@ Blackjack can be a fun casino game to play, especially when you win. This is an 
 
 ## [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/Bilbottom/permutations)
 
-###### [https://github.com/Bilbottom/permutations](https://github.com/Bilbottom/permutations)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/permutations](https://github.com/Bilbottom/permutations)</span>
 
 > Not really in development any more (and not even finished)
 
@@ -177,7 +176,7 @@ The purpose of this project was to show all the different notations, where they 
 
 ## [🧑‍🎓 Master's Dissertation Graphs](https://github.com/Bilbottom/ma5p1-dissertation-code)
 
-###### [https://github.com/Bilbottom/ma5p1-dissertation-code](https://github.com/Bilbottom/ma5p1-dissertation-code)
+<span style="color:grey" size=1>[https://github.com/Bilbottom/ma5p1-dissertation-code](https://github.com/Bilbottom/ma5p1-dissertation-code)</span>
 
 > Originally an R project, this has been reduced and reworked as a Python project
 
