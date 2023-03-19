@@ -7,6 +7,10 @@
 🚀 Personal Projects
 ---
 
+* TOC
+{:toc}
+
+
 ## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
 ###### [https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)
