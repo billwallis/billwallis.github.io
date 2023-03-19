@@ -1,3 +1,7 @@
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+
 🚀 Personal Projects
 ---
 
@@ -52,6 +56,25 @@ The dbt documentation is hosted at:
 
 - [https://bilbottom.github.io/billiam-database](https://bilbottom.github.io/billiam-database)
 
+
+---
+
+### [<img alt="PyCharm" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
+
+###### [https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)
+
+PyCharm is awesome, and it's even more awesome when you write your own database extensions 😉
+
+The repo adds 4 aggregator extensions and 2 extractor extensions:
+
+- **Aggregators**
+  - [COUNT_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_CHARS.groovy)
+  - [COUNT_DISTINCT.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_DISTINCT.groovy)
+  - [COUNT_NULLS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_NULLS.groovy)
+  - [HAS_BAD_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/HAS_BAD_CHARS.groovy)
+- **Extractors**
+  - [One-Row.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/extractors/One-Row.sql.groovy)
+  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/extractors/SQL-Where.sql.groovy)
 
 ---
 
