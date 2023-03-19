@@ -3,7 +3,7 @@
 
 ### [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
-###### https://github.com/Bilbottom/daily-tracker
+###### [https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)
 
 Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to entry what I'm working on
 
@@ -12,6 +12,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 <img alt="pop-up-box" src="https://raw.githubusercontent.com/Bilbottom/daily-tracker/main/tracker-form-tkinter.png"/>
 
 </div>
+<br>
 
 #### ✨ Features
 
@@ -37,7 +38,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 ### [<img alt="dbt-labs" height="15px" src="https://www.getdbt.com/favicon.ico"> Data Modelling using dbt](https://github.com/Bilbottom/billiam-database)
 
-###### https://github.com/Bilbottom/billiam-database
+###### [https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)
 
 In addition to my 'automated' timesheet (the project above), I also keep track of every transaction I make at an item level (since 2018-01-18)
 
@@ -49,25 +50,25 @@ Current lineage diagram:
 
 The dbt documentation is hosted at:
 
-- https://bilbottom.github.io/billiam-database
+- [https://bilbottom.github.io/billiam-database](https://bilbottom.github.io/billiam-database)
 
 
 ---
 
 ### [<img alt="Microsoft Excel" height="15px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
-###### https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit
+###### [https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
 
 ---
 
 ### [♠️ Blackjack Emulator](https://github.com/Bilbottom/blackjack)
 
-###### https://github.com/Bilbottom/blackjack
+###### [https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)
 
 
 ---
 
 ### [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/Bilbottom/permutations)
 
-###### https://github.com/Bilbottom/permutations
+###### [https://github.com/Bilbottom/permutations](https://github.com/Bilbottom/permutations)
