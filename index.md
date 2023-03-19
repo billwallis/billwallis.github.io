@@ -1,5 +1,7 @@
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<head>
+  <title>Personal Projects</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+</head>
 
 
 🚀 Personal Projects
@@ -83,6 +85,16 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 ###### [https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
 Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
+
+[//]: # (Uncomment once the repo is no longer private)
+
+[//]: # (<div style="text-align: center;">)
+
+[//]: # ()
+[//]: # (<img alt="personal-toolkit-ribbon" src="https://raw.githubusercontent.com/Bilbottom/vba-projects/main/personal-toolkit/personal-toolkit-ribbon.png"/>)
+
+[//]: # ()
+[//]: # (</div>)
 
 The features are built using VBA and the custom ribbon tab is added using the **Office RibbonX Editor** available at:
 
