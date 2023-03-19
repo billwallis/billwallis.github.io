@@ -3,7 +3,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
-<span style="font-weight:bold" size=24>🚀 Personal Projects</span>
+<span style="font-weight:bold" size=32>🚀 Personal Projects</span>
 
 **What's on this page?**
 * TOC
@@ -47,7 +47,7 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 ---
 
-## [<img alt="dbt-labs" height="18px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
+## [<img alt="dbt-labs" height="16px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)</span>
 
@@ -66,7 +66,7 @@ The dbt documentation is hosted at:
 
 ---
 
-## [<img alt="PyCharm" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
+## [<img alt="PyCharm" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)</span>
 
@@ -85,7 +85,7 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 
 ---
 
-## [<img alt="Microsoft Excel" height="18px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
+## [<img alt="Microsoft Excel" height="16px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)</span>
 
