@@ -3,7 +3,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
-<span style="font-weight:bold" size=32>🚀 Personal Projects</span>
+<span style="font-weight:bold">🚀 Personal Projects</span>
 
 **What's on this page?**
 * TOC
@@ -16,7 +16,7 @@
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)</span>
 
-Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to entry what I'm working on
+Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to enter what I'm working on
 
 <div style="text-align: center;">
 
@@ -27,12 +27,12 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 **✨ Features**
 
-- Drop-down box to select from recent tasks
-- Auto-populates the detail text box with the tasks' last entry
+- Drop-down box to select from recent projects
+- Auto-populates the detail text box with the project's last entry
 - Integrates with [Outlook <img alt="Microsoft Outlook" height="14px" src="https://outlook.live.com/favicon.ico"/>](https://outlook.live.com/owa/)
   - Reads the calendar and auto-fills with meeting information
 - Integrates with [Jira <img alt="Jira Software" height="12px" src="https://example.atlassian.net/favicon.ico">](https://www.atlassian.com/software/jira)
-  - Reads tickets in the current sprint and adds them to the task drop-down
+  - Reads tickets in the current sprint and adds them to the project drop-down
   - Adds a worklog to the ticket when the form is submitted
 - Integrates with [Slack <img alt="Slack" height="12px" src="https://slack.com/favicon.ico"/>](https://slack.com/)
   - Posts a message to channel when the form is submitted
@@ -42,7 +42,9 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 - This is still very early in development and is undergoing a significant restructure
 - The code coverage is extremely limited
-- The Outlook integration on MacOS doesn't work for recurring meetings
+- The code requires manual tweaks and setup the first time it's cloned
+- There are a number of outstanding issues, see the repo's Issues page:
+  - [https://github.com/Bilbottom/daily-tracker/issues](https://github.com/Bilbottom/daily-tracker/issues)
 
 
 ---
@@ -89,7 +91,7 @@ The repo adds 4 aggregator extensions and 2 extractor extensions:
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)</span>
 
-Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
+Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has)
 
 [//]: # (Uncomment once the repo is no longer private)
 
@@ -116,7 +118,7 @@ The features are built using VBA and the custom ribbon tab is added using the **
 
 Can you tell I like VBA? Well, I want you to like it too -- so this is a reference material for getting started with VBA. The guide is written in LaTeX, but you can find the latest compiled version at:
 
-- https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf
+- [https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf](https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf)
 
 It was originally written for some former colleagues and has been slightly adapted for a more general audience, but probably not enough. If you want to see some VBA videos, I strongly recommend [the WiseOwl YouTube](https://www.youtube.com/@WiseOwlTutorials) tutorials:
 
@@ -167,7 +169,7 @@ Blackjack can be a fun casino game to play, especially when you win. This is an 
 
 There's a branch of Maths called Linear Algebra, and one of the concepts that you can study is _permutations_:
 
-- https://en.wikipedia.org/wiki/Permutation
+- [https://en.wikipedia.org/wiki/Permutation](https://en.wikipedia.org/wiki/Permutation)
 
 They're a pretty simple concept, but learning about them becomes a pain because there's a lot of different --- and in some places, contradictory --- notation used to describe them and what they can do
 
@@ -186,14 +188,14 @@ As part of my dissertation, I was exploring ["point-line duality"](https://en.wi
 
 One of the images has also been used as the thumbnail for the song **Perdidos en la Multitud** by the Argentinian musician **Aroldo De Souza**:
 
-- https://www.instagram.com/aroldo_de_souza/
-- https://open.spotify.com/track/5XXUJO0EzWpjkRpvrkZkt1?si=2ebc3c24556b44ff
+- [https://www.instagram.com/aroldo_de_souza/](https://www.instagram.com/aroldo_de_souza/)
+- [https://open.spotify.com/track/5XXUJO0EzWpjkRpvrkZkt1?si=2ebc3c24556b44ff](https://open.spotify.com/track/5XXUJO0EzWpjkRpvrkZkt1?si=2ebc3c24556b44ff)
 
 The description to go with this image is:
 
-> In Mathematics, there is a concept of point-line duality: that is, for a point on a graph there is a corresponding line called its _dual_. The dual of the point `(a, b)` is the set of points `{(x, y)}` such that `ax + by = 0`, and we call the set of points a _line_. (Note: this is the _affine_ dual, but the images actually use a _projective_ dual.)
+> In Mathematics, there is a concept of point-line duality: that is, for a point on a graph there is a corresponding line called its _dual_. The dual of the point `(a, b)` is the set of points `{(x, y)}` such that `ax + by = 0`, and we call the set of points a _line_
 >
-> An interesting consequence of this duality is that if a collection of points all line on a straight line, then their dual lines will all intersect in the same place. The image is the duals of some points on the cubic curve `y = x^3`. The points on the cubic curve have been selected so that there are many sets of 3 points that all lie on the same line (such as `(-1, -1)`, `(0, 0)`, and `(1, 1)`) which means that their duals (the images) have many intersections of exactly 3 lines/
+> An interesting consequence of this duality is that if a collection of points all line on a straight line, then their dual lines will all intersect in the same place. The image is the duals of some points on the cubic curve `y = x^3`. The points on the cubic curve have been selected so that there are many sets of 3 points that all lie on the same line (such as `(-1, -1)`, `(0, 0)`, and `(1, 1)`) which means that their duals (the lines) have many intersections of exactly 3 lines
 
 If you look carefully, you'll also see that the image has been set as the tab icon for this page 😉
 
