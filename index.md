@@ -74,16 +74,17 @@ The dbt documentation is hosted at:
 
 PyCharm is awesome, and it's even more awesome when you write your own database extensions 😉
 
-The repo adds 4 aggregator extensions and 2 extractor extensions:
+The repo adds 4 aggregator extensions and 3 extractor extensions:
 
 - **Aggregators**
-  - [COUNT_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_CHARS.groovy)
-  - [COUNT_DISTINCT.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_DISTINCT.groovy)
-  - [COUNT_NULLS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/COUNT_NULLS.groovy)
-  - [HAS_BAD_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/aggregators/HAS_BAD_CHARS.groovy)
+  - [COUNT_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_CHARS.groovy)
+  - [COUNT_DISTINCT.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_DISTINCT.groovy)
+  - [COUNT_NULLS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_NULLS.groovy)
+  - [HAS_BAD_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/HAS_BAD_CHARS.groovy)
 - **Extractors**
-  - [One-Row.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/extractors/One-Row.sql.groovy)
-  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/master/data/extractors/SQL-Where.sql.groovy)
+  - [Jira-Server.md.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/Jira-Server.md.groovy)
+  - [One-Row.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/One-Row.sql.groovy)
+  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/SQL-Where.sql.groovy)
 
 ---
 
