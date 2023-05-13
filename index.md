@@ -42,6 +42,8 @@ End time: 2023-05-07 12:38:08.757555
 ```
 
 
+---
+
 ## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)</span>
