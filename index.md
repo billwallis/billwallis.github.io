@@ -46,7 +46,7 @@ End time: 2023-05-07 12:38:08.757555
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)</span>
 
-Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to enter what I'm working on
+Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to enter what I'm working on.
 
 <div style="text-align: center;">
 
@@ -83,9 +83,9 @@ Not sure where all your time goes? I wasn't either, so this application generate
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)</span>
 
-In addition to my 'automated' timesheet (the project above), I also keep track of every transaction I make at an item level (since 2018-01-18)
+In addition to my 'automated' timesheet (the project above), I also keep track of every transaction I make at an item level (since 2018-01-18).
 
-This project is both a [dbt](https://www.getdbt.com/) proof-of-concept, plus a means for me to analyse my spending and work
+This project is both a [dbt](https://www.getdbt.com/) proof-of-concept, plus a means for me to analyse my spending and work.
 
 Current lineage diagram:
 
@@ -122,7 +122,7 @@ The repo adds 4 aggregator extensions and 3 extractor extensions:
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)</span>
 
-Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has)
+Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
 
 [//]: # (Uncomment once the repo is no longer private)
 
@@ -163,11 +163,11 @@ It was originally written for some former colleagues and has been slightly adapt
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/sql-schema-models](https://github.com/Bilbottom/sql-schema-models)</span>
 
-Since I work with data all day every day, this is a start at some generalised data models
+Since I work with data all day every day, this is a start at some generalised data models.
 
-For example, most databases (at least, analytical ones) benefit from having some calendar tables, also sometimes referred to as a "date dimension" from when they were built into the Kimball star schema architecture
+For example, most databases (at least, analytical ones) benefit from having some calendar tables, also sometimes referred to as a "date dimension" from when they were built into the Kimball star schema architecture.
 
-This is also a chance for me to just practise data modelling and data generation, so don't take these models too seriously
+This is also a chance for me to just practise data modelling and data generation, so don't take these models too seriously.
 
 
 ---
@@ -176,9 +176,9 @@ This is also a chance for me to just practise data modelling and data generation
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/loan-calcs](https://github.com/Bilbottom/loan-calcs)</span>
 
-I worked in Finance for 4 years and spent a lot of time working with loans. There's loads of helpful calculations to go with them, so this is a place to both document them and to also expose them through Python classes
+I worked in Finance for 4 years and spent a lot of time working with loans. There's loads of helpful calculations to go with them, so this is a place to both document them and to also expose them through Python classes.
 
-Mainly another opportunity for me to play around with OOP (mainly inheritance in this case) and to have fun with some maths
+Mainly another opportunity for me to play around with OOP (mainly inheritance in this case) and to have fun with some maths.
 
 
 ---
@@ -187,7 +187,7 @@ Mainly another opportunity for me to play around with OOP (mainly inheritance in
 
 <span style="color:grey" size=1>[https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)</span>
 
-Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts
+Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts.
 
 
 ---
@@ -202,9 +202,9 @@ There's a branch of Maths called Linear Algebra, and one of the concepts that yo
 
 - [https://en.wikipedia.org/wiki/Permutation](https://en.wikipedia.org/wiki/Permutation)
 
-They're a pretty simple concept, but learning about them becomes a pain because there's a lot of different --- and in some places, contradictory --- notation used to describe them and what they can do
+They're a pretty simple concept, but learning about them becomes a pain because there's a lot of different --- and in some places, contradictory --- notation used to describe them and what they can do.
 
-The purpose of this project was to show all the different notations, where they differ, and how to solve problems using each of them
+The purpose of this project was to show all the different notations, where they differ, and how to solve problems using each of them.
 
 
 ---
@@ -215,7 +215,7 @@ The purpose of this project was to show all the different notations, where they 
 
 > Originally an R project, this has been reduced and reworked as a Python project
 
-As part of my dissertation, I was exploring ["point-line duality"](https://en.wikipedia.org/wiki/Duality_(projective_geometry)) -- and it was easiest to do this by drawing up the points and the lines using a computer
+As part of my dissertation, I was exploring ["point-line duality"](https://en.wikipedia.org/wiki/Duality_(projective_geometry)) -- and it was easiest to do this by drawing up the points and the lines using a computer.
 
 One of the images has also been used as the thumbnail for the song **Perdidos en la Multitud** by the Argentinian musician **Aroldo De Souza**:
 
