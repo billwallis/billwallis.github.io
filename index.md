@@ -13,7 +13,7 @@
 
 ## [⏱️ Database Query Profiler](https://github.com/Bilbottom/db-query-profiler)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/db-query-profiler)</span>
+<span style="color:grey" size=1>[https://github.com/Bilbottom/db-query-profiler](https://github.com/Bilbottom/db-query-profiler)</span>
 
 One of the awesome things about SQL is that there's so many different ways to get the same output. One of the hardest things about SQL is knowing which way is the most performant way 😝
 
