@@ -11,6 +11,36 @@
 
 ---
 
+## [⏱️ Database Query Profiler](https://github.com/Bilbottom/db-query-profiler)
+
+<span style="color:grey" size=1>[https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/db-query-profiler)</span>
+
+One of the awesome things about SQL is that there's so many different ways to get the same output. One of the hardest things about SQL is knowing which way is the most performant way 😝
+
+Enter: the **Database Query Profiler**.
+
+This is a Python package that will run a set of queries against your database a number of times and return the average execution times. It's intended to be used during development to help you understand the actual performance of your queries.
+
+> **_This is NOT a replacement for analysing the [query plan](https://en.wikipedia.org/wiki/Query_plan). This should just support the analysis done with it._**
+
+
+**✨ Features**
+
+- Database agnostic, just provide a class that can execute a query against your database
+- Minimal setup required, drop your queries into a directory and run!
+- Provides real-time feedback on the progress of the profiling (thanks to [`tqdm`](https://github.com/tqdm/tqdm))
+
+A typical output will look something like this:
+```
+Start time: 2023-05-07 12:38:06.879738
+----------------------------------------
+100%|██████████| 5/5 [00:01<00:00,  3.29it/s]
+query-1.sql: 0.10063192 (33.4%)
+query-2.sql: 0.20044784 (66.6%)
+----------------------------------------
+End time: 2023-05-07 12:38:08.757555
+```
+
 
 ## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
 
