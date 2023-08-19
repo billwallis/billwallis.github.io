@@ -7,8 +7,7 @@
 
 **What's on this page?**
 
-- TOC
-
+* TOC
 {:toc}
 
 ---
