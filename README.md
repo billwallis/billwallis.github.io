@@ -1,5 +1,4 @@
-Bilbottom
----
+## Bilbottom
 
 Config for my personal GitHub pages. The root site is:
 

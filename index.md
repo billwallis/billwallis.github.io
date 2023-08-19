@@ -6,8 +6,9 @@
 <span style="font-weight:bold">🚀 Personal Projects</span>
 
 **What's on this page?**
-* TOC
-{:toc}
+
+- TOC
+  {:toc}
 
 ---
 
@@ -23,7 +24,6 @@ This is a Python package that will run a set of queries against your database a 
 
 > **_This is NOT a replacement for analysing the [query plan](https://en.wikipedia.org/wiki/Query_plan). This should just support the analysis done with it._**
 
-
 **✨ Features**
 
 - Database agnostic, just provide a class that can execute a query against your database
@@ -31,6 +31,7 @@ This is a Python package that will run a set of queries against your database a 
 - Provides real-time feedback on the progress of the profiling (thanks to [`tqdm`](https://github.com/tqdm/tqdm))
 
 A typical output will look something like this:
+
 ```
 Start time: 2023-05-07 12:38:06.879738
 ----------------------------------------
@@ -40,7 +41,6 @@ query-2.sql: 0.20044784s (66.6%)
 ----------------------------------------
 End time: 2023-05-07 12:38:08.757555
 ```
-
 
 ---
 
@@ -69,7 +69,6 @@ Not sure where all your time goes? I wasn't either, so this application generate
 - Integrates with [Slack <img alt="Slack" height="12px" src="https://slack.com/favicon.ico"/>](https://slack.com/)
   - Posts a message to channel when the form is submitted
 
-
 **⚠️ Warnings**
 
 - This is still very early in development and is undergoing a significant restructure
@@ -77,7 +76,6 @@ Not sure where all your time goes? I wasn't either, so this application generate
 - The code requires manual tweaks and setup the first time it's cloned
 - There are a number of outstanding issues, see the repo's Issues page:
   - [https://github.com/Bilbottom/daily-tracker/issues](https://github.com/Bilbottom/daily-tracker/issues)
-
 
 ---
 
@@ -96,7 +94,6 @@ Current lineage diagram:
 The dbt documentation is hosted at:
 
 - [https://bilbottom.github.io/billiam-database](https://bilbottom.github.io/billiam-database)
-
 
 ---
 
@@ -126,20 +123,16 @@ The repo adds 4 aggregator extensions and 3 extractor extensions:
 
 Excel will never go away... So let's enriched it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
 
-[//]: # (Uncomment once the repo is no longer private)
-
-[//]: # (<div style="text-align: center;">)
-
-[//]: # ()
-[//]: # (<img alt="personal-toolkit-ribbon" src="https://raw.githubusercontent.com/Bilbottom/vba-projects/main/personal-toolkit/personal-toolkit-ribbon.png"/>)
-
-[//]: # ()
-[//]: # (</div>)
+[//]: # "Uncomment once the repo is no longer private"
+[//]: # '<div style="text-align: center;">'
+[//]: #
+[//]: # '<img alt="personal-toolkit-ribbon" src="https://raw.githubusercontent.com/Bilbottom/vba-projects/main/personal-toolkit/personal-toolkit-ribbon.png"/>'
+[//]: #
+[//]: # "</div>"
 
 The features are built using VBA and the custom ribbon tab is added using the **Office RibbonX Editor** available at:
 
 - [https://github.com/fernandreu/office-ribbonx-editor](https://github.com/fernandreu/office-ribbonx-editor)
-
 
 ---
 
@@ -158,7 +151,6 @@ It was originally written for some former colleagues and has been slightly adapt
 - [https://youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5](https://youtube.com/playlist?list=PLNIs-AWhQzckr8Dgmgb3akx_gFMnpxTN5)
 - [https://youtube.com/playlist?list=PLNIs-AWhQzckV9rAM3yv8ym4pioIMA0UR](https://youtube.com/playlist?list=PLNIs-AWhQzckV9rAM3yv8ym4pioIMA0UR)
 
-
 ---
 
 ## [🌍 SQL Schema Models](https://github.com/Bilbottom/sql-schema-models)
@@ -171,7 +163,6 @@ For example, most databases (at least, analytical ones) benefit from having some
 
 This is also a chance for me to just practise data modelling and data generation, so don't take these models too seriously.
 
-
 ---
 
 ## [💰 Loan Calculations](https://github.com/Bilbottom/loan-calcs)
@@ -182,7 +173,6 @@ I worked in Finance for 4 years and spent a lot of time working with loans. Ther
 
 Mainly another opportunity for me to play around with OOP (mainly inheritance in this case) and to have fun with some maths.
 
-
 ---
 
 ## [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
@@ -190,7 +180,6 @@ Mainly another opportunity for me to play around with OOP (mainly inheritance in
 <span style="color:grey" size=1>[https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)</span>
 
 Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts.
-
 
 ---
 
@@ -208,7 +197,6 @@ They're a pretty simple concept, but learning about them becomes a pain because 
 
 The purpose of this project was to show all the different notations, where they differ, and how to solve problems using each of them.
 
-
 ---
 
 ## [🧑‍🎓 Master's Dissertation Graphs](https://github.com/Bilbottom/ma5p1-dissertation-code)
@@ -217,7 +205,7 @@ The purpose of this project was to show all the different notations, where they 
 
 > Originally an R project, this has been reduced and reworked as a Python project
 
-As part of my dissertation, I was exploring ["point-line duality"](https://en.wikipedia.org/wiki/Duality_(projective_geometry)) -- and it was easiest to do this by drawing up the points and the lines using a computer.
+As part of my dissertation, I was exploring ["point-line duality"](<https://en.wikipedia.org/wiki/Duality_(projective_geometry)>) -- and it was easiest to do this by drawing up the points and the lines using a computer.
 
 One of the images has also been used as the thumbnail for the song **Perdidos en la Multitud** by the Argentinian musician **Aroldo De Souza**:
 
