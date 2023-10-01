@@ -90,7 +90,7 @@ This project is both a [dbt](https://www.getdbt.com/) proof-of-concept, plus a m
 
 Current lineage diagram:
 
-<img alt="lineage-diagrams" src="https://raw.githubusercontent.com/Bilbottom/billiam-database/main/src/assets/dbt-dag.png"/>
+<img alt="lineage-diagrams" src="https://raw.githubusercontent.com/Bilbottom/billiam-database/main/billiam_database/assets/dbt-dag.png"/>
 
 The dbt documentation is hosted at:
 
@@ -114,7 +114,7 @@ The repo adds four aggregator extensions and three extractor extensions:
 - **Extractors**
   - [Jira-Server.md.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/Jira-Server.md.groovy)
   - [One-Row.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/One-Row.sql.groovy)
-  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/SQL-Where.sql.groovy)
+  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/SQL-Where.sql.groovy) (deprecated)
 
 ---
 
