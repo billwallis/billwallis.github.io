@@ -7,8 +7,9 @@
 
 **What's on this page?**
 
-- TOC
-  {:toc}
+<!-- prettier-ignore -->
+* TOC
+{:toc}
 
 ---
 
