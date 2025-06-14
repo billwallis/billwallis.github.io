@@ -1,8 +1,8 @@
-## Bilbottom
+## billwallis
 
 Config for my personal GitHub pages. The root site is:
 
-- https://bilbottom.github.io/
+- https://billwallis.github.io/
 
 ---
 

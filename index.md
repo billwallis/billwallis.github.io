@@ -13,9 +13,9 @@
 
 ---
 
-## [⏱️ Database Query Profiler](https://github.com/Bilbottom/db-query-profiler)
+## [⏱️ Database Query Profiler](https://github.com/billwallis/db-query-profiler)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/db-query-profiler](https://github.com/Bilbottom/db-query-profiler)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/db-query-profiler](https://github.com/billwallis/db-query-profiler)</span>
 
 One of the awesome things about SQL is that there are so many different ways to get the same output. One of the hardest things about SQL is knowing which way is the most performant way 😝
 
@@ -45,15 +45,15 @@ End time: 2023-05-07 12:38:08.757555
 
 ---
 
-## [📝 Timesheet automation with pop-up boxes](https://github.com/Bilbottom/daily-tracker)
+## [📝 Timesheet automation with pop-up boxes](https://github.com/billwallis/daily-tracker)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/daily-tracker](https://github.com/Bilbottom/daily-tracker)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/daily-tracker](https://github.com/billwallis/daily-tracker)</span>
 
 Not sure where all your time goes? I wasn't either, so this application generates a pop-up box every 15 minutes (configurable) for me to enter what I'm working on.
 
 <div style="text-align: center;">
 
-<img alt="pop-up-box" src="https://raw.githubusercontent.com/Bilbottom/daily-tracker/main/tracker-form-tkinter.png"/>
+<img alt="pop-up-box" src="https://raw.githubusercontent.com/billwallis/daily-tracker/main/tracker-form-tkinter.png"/>
 
 </div>
 <br>
@@ -76,13 +76,13 @@ Not sure where all your time goes? I wasn't either, so this application generate
 - The code coverage is extremely limited
 - The code requires manual tweaks the first time it's cloned
 - There are a number of outstanding issues, see the repo's Issues page:
-  - [https://github.com/Bilbottom/daily-tracker/issues](https://github.com/Bilbottom/daily-tracker/issues)
+  - [https://github.com/billwallis/daily-tracker/issues](https://github.com/billwallis/daily-tracker/issues)
 
 ---
 
-## [<img alt="dbt-labs" height="16px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/Bilbottom/billiam-database)
+## [<img alt="dbt-labs" height="16px" src="https://www.getdbt.com/favicon.ico"> Life Admin using dbt](https://github.com/billwallis/billiam-database)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/billiam-database](https://github.com/Bilbottom/billiam-database)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/billiam-database](https://github.com/billwallis/billiam-database)</span>
 
 In addition to my 'automated' timesheet (the project above), I also keep track of every transaction I make at an item level (since 2018-01-18).
 
@@ -90,44 +90,44 @@ This project is both a [dbt](https://www.getdbt.com/) proof-of-concept, plus a m
 
 Current lineage diagram:
 
-<img alt="lineage-diagrams" src="https://raw.githubusercontent.com/Bilbottom/billiam-database/main/billiam_database/assets/dbt-dag.png"/>
+<img alt="lineage-diagrams" src="https://raw.githubusercontent.com/billwallis/billiam-database/main/billiam_database/assets/dbt-dag.png"/>
 
 The dbt documentation is hosted at:
 
-- [https://bilbottom.github.io/billiam-database](https://bilbottom.github.io/billiam-database)
+- [https://billwallis.github.io/billiam-database](https://billwallis.github.io/billiam-database)
 
 ---
 
-## [<img alt="PyCharm" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/Bilbottom/pycharm-extensions)
+## [<img alt="PyCharm" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> Custom PyCharm Database Extensions](https://github.com/billwallis/pycharm-extensions)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/pycharm-extensions](https://github.com/Bilbottom/pycharm-extensions)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/pycharm-extensions](https://github.com/billwallis/pycharm-extensions)</span>
 
 PyCharm is awesome, and it's even more awesome when you write your own database extensions 😉
 
 The repo adds four aggregator extensions and three extractor extensions:
 
 - **Aggregators**
-  - [COUNT_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_CHARS.groovy)
-  - [COUNT_DISTINCT.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_DISTINCT.groovy)
-  - [COUNT_NULLS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_NULLS.groovy)
-  - [HAS_BAD_CHARS.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/HAS_BAD_CHARS.groovy)
+  - [COUNT_CHARS.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_CHARS.groovy)
+  - [COUNT_DISTINCT.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_DISTINCT.groovy)
+  - [COUNT_NULLS.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/COUNT_NULLS.groovy)
+  - [HAS_BAD_CHARS.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/aggregators/HAS_BAD_CHARS.groovy)
 - **Extractors**
-  - [Jira-Server.md.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/Jira-Server.md.groovy)
-  - [One-Row.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/One-Row.sql.groovy)
-  - [SQL-Where.sql.groovy](https://github.com/Bilbottom/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/SQL-Where.sql.groovy) (deprecated)
+  - [Jira-Server.md.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/Jira-Server.md.groovy)
+  - [One-Row.sql.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/One-Row.sql.groovy)
+  - [SQL-Where.sql.groovy](https://github.com/billwallis/pycharm-extensions/blob/main/pycharm-extensions/data/extractors/SQL-Where.sql.groovy) (deprecated)
 
 ---
 
-## [<img alt="Microsoft Excel" height="16px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)
+## [<img alt="Microsoft Excel" height="16px" src="https://www.microsoft.com/favicon.ico"> Custom Excel Add-In](https://github.com/billwallis/vba-projects/tree/main/personal-toolkit)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit](https://github.com/Bilbottom/vba-projects/tree/main/personal-toolkit)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/vba-projects/tree/main/personal-toolkit](https://github.com/billwallis/vba-projects/tree/main/personal-toolkit)</span>
 
 Excel will never go away... So let's enrich it with some quality-of-life features wrapped up into a handy custom ribbon tab (in addition to the millions of features that Excel already has).
 
 [//]: # "Uncomment once the repo is no longer private"
 [//]: # '<div style="text-align: center;">'
 [//]: #
-[//]: # '<img alt="personal-toolkit-ribbon" src="https://raw.githubusercontent.com/Bilbottom/vba-projects/main/personal-toolkit/personal-toolkit-ribbon.png"/>'
+[//]: # '<img alt="personal-toolkit-ribbon" src="https://raw.githubusercontent.com/billwallis/vba-projects/main/personal-toolkit/personal-toolkit-ribbon.png"/>'
 [//]: #
 [//]: # "</div>"
 
@@ -137,15 +137,15 @@ The features are built using VBA, and the custom ribbon tab is added using the *
 
 ---
 
-## [📘 VBA Guide](https://github.com/Bilbottom/vba-guide)
+## [📘 VBA Guide](https://github.com/billwallis/vba-guide)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/vba-guide](https://github.com/Bilbottom/vba-guide)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/vba-guide](https://github.com/billwallis/vba-guide)</span>
 
 > This will probably not be updated any more
 
 Can you tell that I like VBA? Well, I want you to like it too: this is a reference material for getting started with VBA. The guide is written in LaTeX, but you can find the latest compiled version at:
 
-- [https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf](https://github.com/Bilbottom/vba-guide/blob/main/compiled/vba-guide.pdf)
+- [https://github.com/billwallis/vba-guide/blob/main/compiled/vba-guide.pdf](https://github.com/billwallis/vba-guide/blob/main/compiled/vba-guide.pdf)
 
 It was originally written for some former colleagues and has been slightly adapted for a more general audience, but probably not enough. If you want to see some VBA videos, I strongly recommend [the WiseOwl YouTube](https://www.youtube.com/@WiseOwlTutorials) tutorials:
 
@@ -154,9 +154,9 @@ It was originally written for some former colleagues and has been slightly adapt
 
 ---
 
-## [🌍 SQL Schema Models](https://github.com/Bilbottom/sql-schema-models)
+## [🌍 SQL Schema Models](https://github.com/billwallis/sql-schema-models)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/sql-schema-models](https://github.com/Bilbottom/sql-schema-models)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/sql-schema-models](https://github.com/billwallis/sql-schema-models)</span>
 
 Since I work with data all day every day, this is a start at some generalised data models.
 
@@ -166,9 +166,9 @@ This is also a chance for me to just practise data modelling and data generation
 
 ---
 
-## [💰 Loan Calculations](https://github.com/Bilbottom/loan-calcs)
+## [💰 Loan Calculations](https://github.com/billwallis/loan-calcs)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/loan-calcs](https://github.com/Bilbottom/loan-calcs)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/loan-calcs](https://github.com/billwallis/loan-calcs)</span>
 
 I worked in Finance for 4 years and spent a lot of time working with loans. There are loads of helpful calculations to go with them, so this is a place to both document them and to also expose them through Python classes.
 
@@ -176,17 +176,17 @@ Mainly another opportunity for me to play around with OOP (mainly inheritance in
 
 ---
 
-## [🃏 Blackjack Emulator](https://github.com/Bilbottom/blackjack)
+## [🃏 Blackjack Emulator](https://github.com/billwallis/blackjack)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/blackjack](https://github.com/Bilbottom/blackjack)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/blackjack](https://github.com/billwallis/blackjack)</span>
 
 Blackjack can be a fun casino game to play, especially when you win. This is an attempt to build Blackjack with Python just to get familiar with OOP concepts.
 
 ---
 
-## [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/Bilbottom/permutations)
+## [🔁 Mathematics Textbook on Algebraic Permutations](https://github.com/billwallis/permutations)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/permutations](https://github.com/Bilbottom/permutations)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/permutations](https://github.com/billwallis/permutations)</span>
 
 > Not really in development any more (and not even finished)
 
@@ -200,9 +200,9 @@ The purpose of this project was to show all the different notations, where they 
 
 ---
 
-## [🧑‍🎓 Master's Dissertation Graphs](https://github.com/Bilbottom/ma5p1-dissertation-code)
+## [🧑‍🎓 Master's Dissertation Graphs](https://github.com/billwallis/ma5p1-dissertation-code)
 
-<span style="color:grey" size=1>[https://github.com/Bilbottom/ma5p1-dissertation-code](https://github.com/Bilbottom/ma5p1-dissertation-code)</span>
+<span style="color:grey" size=1>[https://github.com/billwallis/ma5p1-dissertation-code](https://github.com/billwallis/ma5p1-dissertation-code)</span>
 
 > Originally an R project, this has been reduced and reworked as a Python project
 
